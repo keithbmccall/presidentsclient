@@ -10,4 +10,5 @@ export const fetchPresidents = fetchType => dispatch => {
       payload: results.data
     })
   );
+  
 };
